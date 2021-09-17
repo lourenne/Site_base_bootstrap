@@ -1,10 +1,16 @@
 body{
-    background-color: lightskyblue;
+    background-color: black;
 }
 .col{
-    background-color: white;
+    background-color: black;
 }
 .container{
     margin-top:20px;
     border-radius: 15px;
+}
+.nav-link{
+color:whitesmoke
+}
+p{
+    color:white
 }
