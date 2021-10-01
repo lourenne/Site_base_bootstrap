@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&display=swap');
 body{
     background-color: black;
 }
@@ -13,4 +14,7 @@ color:whitesmoke
 }
 p{
     color:white
+}
+a{
+    font-family: 'Gemunu Libre', sans-serif;
 }
