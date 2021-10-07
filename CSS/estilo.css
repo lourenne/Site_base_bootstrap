@@ -10,11 +10,14 @@ body{
     border-radius: 15px;
 }
 .nav-link{
-color:whitesmoke
+color:lightgrey
 }
 p{
     color:white
 }
 a{
     font-family: 'Gemunu Libre', sans-serif;
+}
+h1{
+    color: darkgrey;
 }
